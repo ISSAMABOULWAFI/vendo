@@ -1,0 +1,65 @@
+Searching 28 files for "1.0.3"
+
+/Users/sherkaoui/Documents/Projets/Vendo.ma/DEV/advertise-front/static/extensions/vendo/controllers/front/flux.php:
+    6   * @copyright Vendo.ma - All Rights reserved
+    7   * @license   LICENSE.txt
+    8:  * @version 1.0.3
+    9   *
+   10   */
+
+/Users/sherkaoui/Documents/Projets/Vendo.ma/DEV/advertise-front/static/extensions/vendo/controllers/front/getConfig.php:
+    6   * @copyright Vendo.ma - All Rights reserved
+    7   * @license   LICENSE.txt
+    8:  * @version 1.0.3
+    9   *
+   10   */
+
+/Users/sherkaoui/Documents/Projets/Vendo.ma/DEV/advertise-front/static/extensions/vendo/controllers/front/getOrder.php:
+    6   * @copyright Vendo.ma - All Rights reserved
+    7   * @license   LICENSE.txt
+    8:  * @version 1.0.3
+    9   *
+   10   */
+
+/Users/sherkaoui/Documents/Projets/Vendo.ma/DEV/advertise-front/static/extensions/vendo/controllers/front/inStock.php:
+    6   * @copyright Vendo.ma - All Rights reserved
+    7   * @license   LICENSE.txt
+    8:  * @version 1.0.3
+    9   *
+   10   */
+
+/Users/sherkaoui/Documents/Projets/Vendo.ma/DEV/advertise-front/static/extensions/vendo/controllers/front/setConfig.php:
+    6   * @copyright Vendo.ma - All Rights reserved
+    7   * @license   LICENSE.txt
+    8:  * @version 1.0.3
+    9   *
+   10   */
+
+/Users/sherkaoui/Documents/Projets/Vendo.ma/DEV/advertise-front/static/extensions/vendo/controllers/front/verify.php:
+    6   * @copyright Vendo.ma - All Rights reserved
+    7   * @license   LICENSE.txt
+    8:  * @version 1.0.3
+    9   *
+   10   */
+
+/Users/sherkaoui/Documents/Projets/Vendo.ma/DEV/advertise-front/static/extensions/vendo/vendo.php:
+    6   * @copyright Vendo.ma - All Rights reserved
+    7   * @license   LICENSE.txt
+    8:  * @version 1.0.3
+    9   *
+   10   */
+   ..
+   19          $this->name = 'vendo';
+   20          $this->tab = 'advertising_marketing';
+   21:         $this->version = '1.0.3';
+   22          $this->author = 'Vendo.ma S.A.R.L';
+   23          $this->ps_versions_compliancy = array('min' => '1.5', 'max' => '1.7');
+
+/Users/sherkaoui/Documents/Projets/Vendo.ma/DEV/advertise-front/static/extensions/vendo/views/js/script.js:
+    5   * @copyright Vendo.ma - All Rights reserved
+    6   * @license   LICENSE.txt
+    7:  * @version 1.0.3
+    8   *
+    9   */
+
+9 matches across 8 files
